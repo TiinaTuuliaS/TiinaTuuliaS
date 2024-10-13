@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TiinaTuuliaS
-- 👀 I’m interested in web development, ui/ux, flea markets, styles, gym, cycling and gaming!
+- 👀 I’m interested in web development, databases, back end, ui/ux, flea markets, styles, gym, cycling and gaming!
 - 🌱 I’m currently learning to code, but also learning to take it easy and not overthink and stress so much :)
 - 💞️ I’m looking to collaborate on fun entry level development projects!
 - 📫 How to reach me - you can reach me here at github or at instagram = tiinatuuliasi
