@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, databases, LLM, AI developing, flea markets, styles, gym, cycling and gaming!
 - 🌱 I’m currently looking for a junior positition in  tech :)
 - 💞️ I’m looking to collaborate on fun entry level development projects!
-- 📫 How to reach me - you can reach me here at github or at instagram = tiinatuuliasi
+- 📫 How to reach me - you can reach me here at github 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a visual merchandizer with 10+ years of work experience :)
 
