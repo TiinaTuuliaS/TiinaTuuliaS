@@ -32,6 +32,9 @@ A React + FastAPI AI assistant that answers questions about my skills and experi
 **AI Research Assistant**
 A Python-based multi-agent application that uses CrewAI to research, analyse and generate structured reports on a given topic.
 
+**Retkeilysovellus**
+A community-driven hiking app that helps hikers find up-to-date information about trails and outdoor facilities across Finland.
+
 ### 🌱 Currently exploring
 
 TypeScript · NestJS · PostgreSQL · PostGIS
